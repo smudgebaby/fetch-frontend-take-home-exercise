@@ -1,0 +1,20 @@
+.login-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 40vh;
+}
+
+.login-container input {
+	margin-bottom: 10px;
+	height: 40px;
+	width: 200px;
+}
+.error-message {
+	color: red;
+}
+.login-button {
+	margin-top: 10px;
+	width: 200px;
+}

@@ -1,0 +1,16 @@
+.match-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 20px;
+}
+
+.match-container .disabled-button {
+	width: 200px;
+	cursor: not-allowed;
+}
+
+.match-button {
+	width: 200px;
+}
