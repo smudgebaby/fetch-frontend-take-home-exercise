@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-frontend-take-home-exercise/static/css/main.f61645ea.css",
+    "main.js": "/fetch-frontend-take-home-exercise/static/js/main.7bf36e6d.js",
+    "index.html": "/fetch-frontend-take-home-exercise/index.html",
+    "main.f61645ea.css.map": "/fetch-frontend-take-home-exercise/static/css/main.f61645ea.css.map",
+    "main.7bf36e6d.js.map": "/fetch-frontend-take-home-exercise/static/js/main.7bf36e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61645ea.css",
+    "static/js/main.7bf36e6d.js"
+  ]
+}
