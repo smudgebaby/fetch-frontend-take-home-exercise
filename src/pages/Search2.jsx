@@ -57,7 +57,6 @@ const Search = ({setFavDogs, onLogout}) => {
 			} 
 			const {resultIds, total}  = await searchResponse.json();
 			// console.log(resultIds);
-			console.log(total)
 			setTotalNum(total);
 
 			/**
@@ -76,7 +75,7 @@ const Search = ({setFavDogs, onLogout}) => {
 			// console.log(dogsResponse)
 			const data = await dogsResponse.json();
 			setDogsData(data);
-			// console.log(data)
+			console.log(data)
 		} catch(error){
 			console.error('Error fetching dogs!', error);
 		}
